@@ -371,6 +371,7 @@
 \ecvtelephone{}
 \ecvfax{}
 \ecvemail{}
+\ecvhomepage{}
 \ecvnationality{}
 \ecvdateofbirth{}
 \ecvgender{}
@@ -397,6 +398,9 @@
 \fi
 \ifx\@empty\ecv@email\else
 \ecv@emailkey       &\ecv@email \tabularnewline[5pt]
+\fi
+\ifx\@empty\ecv@homepage\else
+\ecv@homepagekey       &\ecv@homepage \tabularnewline[5pt]
 \fi
 \ifx\@empty\ecv@nationality\else
 \ecv@nationalitykey & \ecv@nationality \tabularnewline[5pt]

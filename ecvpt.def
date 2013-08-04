@@ -10,6 +10,7 @@
 \def\ecv@mobilekey{\ecv@utf{Telem\'ovel}}
 \def\ecv@faxkey{\ecv@utf{Fax(es)}}
 \def\ecv@emailkey{\ecv@utf{Correio(s) electr\'onico(s)}}
+\def\ecv@homepagekey{\ecv@utf{Website}}
 \def\ecv@nationalitykey{\ecv@utf{Nacionalidade(s)}}
 \def\ecv@birthkey{\ecv@utf{Data de nascimento}}
 \def\ecv@genderkey{\ecv@utf{Sexo}}

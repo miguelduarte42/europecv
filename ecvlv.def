@@ -10,6 +10,7 @@
 \def\ecv@mobilekey{\ecv@utf{Mobilais t{\=a}lrunis}}
 \def\ecv@faxkey{\ecv@utf{Fakss}}
 \def\ecv@emailkey{\ecv@utf{E-pasts}}
+\def\ecv@homepagekey{\ecv@utf{Website}}
 \def\ecv@nationalitykey{\ecv@utf{Pilson{\=\i}ba}}
 \def\ecv@birthkey{\ecv@utf{Dzim{\v s}anas datums}}
 \def\ecv@genderkey{\ecv@utf{Dzimums}}

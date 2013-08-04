@@ -10,6 +10,7 @@
 \def\ecv@mobilekey{\ecv@utf{Mobilus}}
 \def\ecv@faxkey{\ecv@utf{Faksas~(-ai)}}
 \def\ecv@emailkey{\ecv@utf{El. pa{\v s}tas~(-ai)}}
+\def\ecv@homepagekey{\ecv@utf{Website}}
 \def\ecv@nationalitykey{\ecv@utf{Pilietyb{\.e}}}
 \def\ecv@birthkey{\ecv@utf{Gimimo data}}
 \def\ecv@genderkey{\ecv@utf{Lytis}}

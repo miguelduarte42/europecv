@@ -10,6 +10,7 @@
 \def\ecv@mobilekey{\ecv@utf{Matkapuhelin}}
 \def\ecv@faxkey{\ecv@utf{Faksinumero(t)}}
 \def\ecv@emailkey{\ecv@utf{S\"ahk\"oposti(t)}}
+\def\ecv@homepagekey{\ecv@utf{Website}}
 \def\ecv@nationalitykey{\ecv@utf{Kansalaisuus}}
 \def\ecv@birthkey{\ecv@utf{Syntym\"aaika}}
 \def\ecv@genderkey{\ecv@utf{Sukupuoli}}

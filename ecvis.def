@@ -10,6 +10,7 @@
 \def\ecv@mobilekey{\ecv@utf{Fars{\'\i}mi}}
 \def\ecv@faxkey{\ecv@utf{Br{\'e}fas{\'\i}mi}}
 \def\ecv@emailkey{\ecv@utf{Netfang/(-f{\"o}ng)}}
+\def\ecv@homepagekey{\ecv@utf{Website}}
 \def\ecv@nationalitykey{\ecv@utf{{\TH}j{\'o}{\dh}erni}}
 \def\ecv@birthkey{\ecv@utf{F{\ae}{\dh}ingardagur}}
 \def\ecv@genderkey{\ecv@utf{Kyn}}
